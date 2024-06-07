@@ -12,7 +12,7 @@ Yuheng is a second-year master of mathematics, at Southeast University (SEU). Sh
 
 **Yuheng is actively looking for Ph.D. program Opportunities starting in Fall 2025!**
 
-Her primary research interests focus on reinforcement learning theory (especially Robust RL) and its applications, combinatorial optimization, and game theory. She cares about two main aspects: 
+Her primary research interests focus on **reinforcement learning theory (especially Robust RL) and its applications, combinatorial optimization, and game theory**. She cares about two main aspects: 
 * Theoretical analysis (convergence, sample complexity, etc.) on Robust RL (may combined with game theory) and algorithms induced by practical CO problems.
 * Handle the uncertainty/adversarial attacks in combinatorial optimization using robust reinforcement learning and game theory.
 
