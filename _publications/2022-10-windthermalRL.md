@@ -2,7 +2,6 @@
 title: "Dynamic Economic Dispatch of Thermal-Wind-Storage Systems Based on Reinforcement Learning"
 collection: publications
 permalink: /publication/2022-10-windthermalRL
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-10-28
 venue: '2022 4th International Conference on Data-driven Optimization of Complex Systems (DOCS)'
 paperurl: 'http://Yuheng-Li-0601.github.io/files/DOCS2022windthermal.pdf'
