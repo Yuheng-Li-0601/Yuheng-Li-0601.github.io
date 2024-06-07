@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<font size=4>Education
+Education
 ======
 * M.S. in Mathematics, Southeast University, 2022-2025
 * B.S. in Mathematics and Applied Mathematics, Southeast University, 2018-2022
 
-<font size=3>Work experience
+Work experience
 ======
 * Spring 2023 - 2024: Research Intern
   * The College of William & Mary 
