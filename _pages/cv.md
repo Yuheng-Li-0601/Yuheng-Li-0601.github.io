@@ -25,7 +25,8 @@ Project
 ======
 * Bachelor Graduation Thesis： Distributed RL and Applications in Smart Grid Dynamic Economic Dispatch
   * Advisor: Prof. Guanghui Wen
-  *  Designed a distributed Q-learning algorithm to handle stochastic wind-thermal-storage economic dispatch.
+  * **Excellent Bachelor Graduation Thesis at SEU**
+  * Designed a distributed Q-learning algorithm to handle stochastic wind-thermal-storage economic dispatch.
 
 * Project 2
   * Sub-skill 2.1
