@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experience"
+permalink: /Experience/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Mathematics, Southeast University, 2022-2025
+* B.S. in Mathematics and Applied Mathematics, Southeast University, 2018-2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Spring 2023 - 2024: Research Intern
+  * The College of William & Mary 
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: [Haipeng Chen](https://haipeng-chen.github.io/)
 
 * Fall 2015: Research Assistant
   * Github University
