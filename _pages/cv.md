@@ -18,7 +18,7 @@ Work experience
 ======
 * Spring 2023 - 2024: Research Intern
   * The College of William & Mary 
-  * Duties include: Robust RL (game theory) for Combinatorial Optimization
+  * Duties include: Robust RL (game theory) for Combinatorial Optimization, One paper (**First author**) Under Review.
   * Supervisor: [Haipeng Chen](https://haipeng-chen.github.io/)
   
 Project
@@ -28,9 +28,4 @@ Project
   * **Excellent Bachelor Graduation Thesis Recommended for Jiangsu Province (1%)**
   * Designed a distributed Q-learning algorithm to handle stochastic wind-thermal-storage economic dispatch.
 
-* Project 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Project 3
   
